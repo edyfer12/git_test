@@ -1,3 +1,3 @@
 # git_test
-Edin
+I am Edin
 Hello Odin!

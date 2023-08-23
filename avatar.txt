@@ -1,0 +1,5 @@
+Name: Edin
+Age: 26
+Gender: M
+Religion: Muslim
+Birthplace: Australia
