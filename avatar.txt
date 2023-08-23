@@ -2,3 +2,6 @@ Name: Edin
 Age: 26
 Gender: M
 Birthplace: Australia
+Place of Residence: Montenegro
+Planet: Earth
+Ethnicity: Montenegrin
